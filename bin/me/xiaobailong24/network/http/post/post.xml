@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<youdao-fanyi>
+	<errorCode>0</errorCode>
+	<query><![CDATA[welcome]]></query>    <!-- ÓÐµÀ·­Òë -->
+	<translation>
+		<paragraph><![CDATA[»¶Ó­]]></paragraph>
+	</translation>    <!-- ÓÐµÀ´Êµä-»ù±¾´Êµä -->
+	<basic>            <!-- Òô±ê -->
+		<phonetic><![CDATA[?w?lk?m]]></phonetic>                <!-- ÃÀÊ½Òô±ê -->
+		<us-phonetic><![CDATA[?welk?m]]></us-phonetic>                <!-- Ó¢Ê½Òô±ê -->
+		<uk-phonetic><![CDATA[?w?lk?m]]></uk-phonetic>            <!-- »ù±¾ÊÍÒå -->
+		<explains>
+			<ex><![CDATA[n. »¶Ó­]]></ex>
+			<ex><![CDATA[vt. »¶Ó­]]></ex>
+			<ex><![CDATA[adj. ÊÜ»¶Ó­µÄ]]></ex>
+			<ex><![CDATA[int. »¶Ó­]]></ex>
+			<ex><![CDATA[n. (Welcome)ÈËÃû£»(Ó¢)Î¤¶û¿ÆÄ·]]></ex>
+		</explains>
+	</basic>    <!-- ÓÐµÀ´Êµä-ÍøÂçÊÍÒå -->
+	<web>
+		<explain>
+			<key><![CDATA[Welcome]]></key>
+			<value>
+				<ex><![CDATA[»¶Ó­]]></ex>
+				<ex><![CDATA[»¶Ó­·ÃÎÊ]]></ex>
+				<ex><![CDATA[»¶Ó­¹âÁÙ]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[welcome to]]></key>
+			<value>
+				<ex><![CDATA[»¶Ó­µ½À´]]></ex>
+				<ex><![CDATA[»¶Ó­µ½]]></ex>
+				<ex><![CDATA[»¶Ó­²Î¼Ó]]></ex>
+			</value>
+		</explain>
+		<explain>
+			<key><![CDATA[Welcome Swallow]]></key>
+			<value>
+				<ex><![CDATA[Ï²Ñà]]></ex>
+				<ex><![CDATA[Ï²Ñà]]></ex>
+			</value>
+		</explain>
+	</web>
+</youdao-fanyi>
